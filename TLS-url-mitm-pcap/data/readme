@@ -1,0 +1,4 @@
+pcap包: data\traffic_result
+未经过滤的body: data\body_log.csv 里面包含1.1k的响应body
+滤掉1.1k的响应体的body: data\final_body_log.csv 滤掉1.1k响应的body
+
