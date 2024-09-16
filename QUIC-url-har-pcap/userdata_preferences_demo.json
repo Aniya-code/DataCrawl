@@ -1,0 +1,1383 @@
+{
+    "NewTabPage": {
+        "PrevNavigationTime": "13360955350771811"
+    },
+    "account_info": [],
+    "account_tracker_service_last_update": "13360928876550727",
+    "alternate_error_pages": {
+        "backup": true
+    },
+    "announcement_notification_service_first_run_time": "13334483933487890",
+    "apps": {
+        "shortcuts_arch": "",
+        "shortcuts_version": 0
+    },
+    "autocomplete": {
+        "retention_policy_last_version": 123
+    },
+    "autofill": {
+        "last_version_deduped": 123,
+        "orphan_rows_removed": true,
+        "upload_encoding_seed": "86ACB4718E45044C0A01C2E82CBDF614"
+    },
+    "bookmark_bar": {
+        "show_on_all_tabs": true
+    },
+    "bookmarks": {
+        "added_since_power_bookmarks_launch": true
+    },
+    "browser": {
+        "default_browser_infobar_last_declined": "13347105321449928",
+        "has_seen_welcome_page": true,
+        "should_reset_check_default_browser": false,
+        "window_placement": {
+            "bottom": 713,
+            "left": 171,
+            "maximized": false,
+            "right": 985,
+            "top": 139,
+            "work_area_bottom": 860,
+            "work_area_left": 0,
+            "work_area_right": 1600,
+            "work_area_top": 0
+        }
+    },
+    "cached_fonts": {
+        "search_results_page": {
+            "fallback": [
+                "Microsoft YaHei"
+            ],
+            "primary": [
+                "Arial"
+            ]
+        }
+    },
+    "child_account_status_known": true,
+    "chrome": {
+        "prefetch_proxy": {
+            "origin_decider": {
+                "retry_after": {}
+            }
+        }
+    },
+    "countryid_at_install": 17230,
+    "default_apps_install_state": 2,
+    "default_search_provider": {
+        "synced_guid": "485bf7d3-0215-45af-87dc-538868000001"
+    },
+    "devtools": {
+        "adb_key": "MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHt1KRf9ngp5RwAREQ1n/zRU+6QCdClW6mVaz4tyAP4QZUZWM2XhTJNpmmbmqBwgsP+oTkAjPdGs4Drd0q2Ojc/efDjzyMxwt/y72afmSUcSbIyPn4rF61ZQ/gH+ICORRWbqrYQ+ZISePMjoiavUkGY/GbEIUfV47NyASx5bwxGayNnZ5Wb7UE40lmioayKbJTHciv4fqCSc9rgp6CLFigR5NoUZ5zczmZ1j0vXOIQsFCjxdgOt/CfVj1bcDhQSRq4zAyUtomd9oOW7nIun4BvoSP/7BwyZMO1fGvTGaqgzUt1bvWunSWCRPSJ2h8snLk41d5HR8KUc5ApJfoN9v65AgMBAAECggEAApYwEsP+sfdffuQ9X1hdsGx32LPLdxtlozYPOhkS6Gp4JvjzvkdXTWWtjLAx9pXpQdv+4HKVw74raACcYvxRflSz59jIchKxiSlg1b5rVinxYDMX/tOHm/MdDONxMGN0UvqfajXWMliU1QD2I8un/6d2dM9q9xEL4ongwJkZ87QZcMEPDaEDdZU+9k4TzMhPs0H644Qi5etBu+FCstqJ0/KZ4wVqhuEdP2TfybBgRTXd/xPt9GU31+/Nj69Zc8cBUQsXq3EumNuWr3+x4Iz01rR+/vE+6vFvnRnTwHjFuKsBQZF7sJrHWPKLvzsbgJbcQcxJlS61PhwdJxVnfTBRcQKBgQD8Tf2xzcVZcft20brci4gYY26HdFbHt1SKMiH1+KBq9sOGH/+XVecfwBXOS7E4V1Z9qqFZ4FGGGB640OJAN4Kw7L1jxwiChZ7djw06R/zWeVHMyw+eczKQySqJlgnrRL4mHW+ahjXmCjn1cgjQOWNWlim+bJ/+h22BL1abyMkPLQKBgQDKpCb8v+trwyri+bllrRT+jW7xfTOqX2D2aVxC8oNALiS3HNOhho5WnqEtRfD8yZ98NmOLRW8JF+zKh1+lgOgw6v+OdU1XOa5mLP+X9CXSq4Xa7SxRtjS+z7Mm1HgRngbVcJ1zlolQtw3GiugXPw/kx/X7mmj15YRLCyJ2oVyFPQKBgB0JBKcPnSR7/4pe/Hgg/pp/5tpjwxDcwjfdKRdbc2qb10h6KjnKQvzeaCQDhfOL6YIwvrzPGdKqt+5g64ikWr/tnqX647nRksTAj68jVa+A6q78t2FutGUBIYoP4DhZAuD0BkHsLAu7JYxfgTAlSo9OXKNzcL4j67AwOHFZG/pJAoGBAJ2WZtNsFRLq5jE5b1qI7ajAKKUYbtNx9R/r89oEatnAiMD2ZAZbc9oc5s8kczLDQYoBagxm5OC3gGhIOrOkue1A85i/1HOe4eeH2wU60ycwSJpmk27AOeih8XqjBPT+ZeYa+/dl/EeO8+GRKMjbO+r5LmyKOlHwOZ96e0SyXBcpAoGBAMFfhJVDxfLqDFZHIJijBT1zQjsIwxEJQfV+rXLfQvTCEkZ0rqb0atAskQtpvtFcbdHoR0CSAOuYEbKPoQMRuoSwYaztnVLhxHB+3Nnv+I+mYWalAhohMXMZynUPInP0xClFXht373RnwbMkQv0QNfV1WLjSvPevx1tL8+3p+lMr",
+        "edited_files": {
+            "d55731ee54b00f1a45c2040315e552e4": "D:\\Book\\new-tab-page.har",
+            "e66dc80e96c779f8c8f1c60ccffd489b": "C:\\Users\\zheng\\Downloads\\bili-BV1Lb411e7dj-360.har"
+        },
+        "preferences": {
+            "Inspector.drawerSplitViewState": "{\"horizontal\":{\"size\":0,\"showMode\":\"OnlyMain\"}}",
+            "InspectorView.splitViewState": "{\"vertical\":{\"size\":769}}",
+            "Styles-pane-sidebar-tabOrder": "{\"Styles\":10,\"Computed\":20}",
+            "closeableTabs": "{\"security\":true,\"chrome_recorder\":true,\"performance_insights\":true,\"release-note\":false}",
+            "console.sidebar.width": "{\"vertical\":{\"size\":0,\"showMode\":\"OnlyMain\"}}",
+            "console.sidebarSelectedFilter": "\"message\"",
+            "currentDockState": "\"right\"",
+            "dataGrid-cookiesTable-columnWeights": "{\"name\":24,\"value\":34,\"domain\":7,\"path\":7,\"expires\":7,\"size\":7,\"httpOnly\":7,\"secure\":7,\"sameSite\":7,\"partitionKey\":7,\"priority\":7}",
+            "drawer-view-selectedTab": "\"release-note\"",
+            "drawer-view-tabOrder": "{\"console-view\":10,\"release-note\":20}",
+            "elements.styles.sidebar.width": "{\"vertical\":{\"size\":0,\"showMode\":\"OnlyMain\"}}",
+            "elementsPanelSplitViewState": "{\"vertical\":{\"size\":192}}",
+            "filterBar-networkPanel-toggled": "true",
+            "inspectorVersion": "35",
+            "networkLogShowOverview": "false",
+            "networkPanelSidebarState": "{\"vertical\":{\"size\":0,\"showMode\":\"OnlyMain\"}}",
+            "networkPanelSplitViewState": "{\"vertical\":{\"size\":248}}",
+            "networkPanelSplitViewWaterfall": "{\"vertical\":{\"size\":0}}",
+            "networkResourceTypeFilters": "{\"all\":true}",
+            "networkShowSettingsToolbar": "false",
+            "networkTextFilter": "\"\"",
+            "panel-selectedTab": "\"network\"",
+            "panel-tabOrder": "{\"elements\":10,\"console\":20,\"sources\":30,\"network\":40,\"timeline\":50,\"heap_profiler\":60,\"resources\":70,\"security\":80,\"lighthouse\":90,\"chrome_recorder\":100,\"performance_insights\":110}",
+            "releaseNoteVersionSeen": "63",
+            "request-info-formData-category-expanded": "true",
+            "request-info-general-category-expanded": "true",
+            "request-info-queryString-category-expanded": "true",
+            "request-info-requestHeaders-category-expanded": "true",
+            "request-info-requestPayload-category-expanded": "true",
+            "request-info-responseHeaders-category-expanded": "true",
+            "resourceViewTab": "\"headersComponent\"",
+            "resourcesCookiesExpanded": "true",
+            "resourcesLastSelectedElementPath": "[\"cookies://https://www.bilibili.com\",\"category://Cookies\"]",
+            "resourcesLocalStorageExpanded": "true",
+            "resourcesPanelSplitViewState": "{\"vertical\":{\"size\":185}}",
+            "showThirdPartyIssues": "true",
+            "sourcesPanelNavigatorSplitViewState": "{\"vertical\":{\"size\":0,\"showMode\":\"Both\"}}",
+            "sourcesPanelSplitViewState": "{\"vertical\":{\"size\":0,\"showMode\":\"Both\"}}",
+            "timelineCountersSplitViewState": "{\"horizontal\":{\"size\":0}}",
+            "timelineTreeViewDetailsSplitWidget": "{\"vertical\":{\"size\":0}}"
+        },
+        "synced_preferences_sync_disabled": {
+            "adornerSettings": "[{\"adorner\":\"grid\",\"isEnabled\":true},{\"adorner\":\"subgrid\",\"isEnabled\":true},{\"adorner\":\"flex\",\"isEnabled\":true},{\"adorner\":\"ad\",\"isEnabled\":true},{\"adorner\":\"scroll-snap\",\"isEnabled\":true},{\"adorner\":\"container\",\"isEnabled\":true},{\"adorner\":\"slot\",\"isEnabled\":true},{\"adorner\":\"top-layer\",\"isEnabled\":true},{\"adorner\":\"reveal\",\"isEnabled\":true}]",
+            "colorFormat": "\"original\"",
+            "syncedInspectorVersion": "35"
+        }
+    },
+    "dips_timer_last_update": "13360958344616053",
+    "domain_diversity": {
+        "last_reporting_timestamp": "13360922344081170"
+    },
+    "download": {
+        "default_directory": "C:\\Users\\zheng\\Desktop\\pic",
+        "directory_upgrade": true,
+        "last_complete_time": "13360835947674639"
+    },
+    "download_bubble": {
+        "partial_view_impressions": 6
+    },
+    "enterprise_profile_guid": "27a63e51-88cb-442d-9ad2-b8868b589ba4",
+    "extensions": {
+        "alerts": {
+            "initialized": true
+        },
+        "chrome_url_overrides": {},
+        "commands": {
+            "windows:Ctrl+Shift+Y": {
+                "command_name": "_execute_action",
+                "extension": "agionbommeaifngbhincahgmoflcikhm",
+                "global": false
+            }
+        },
+        "cws_info_timestamp": "13354689942598243",
+        "install_signature": {
+            "expire_date": "2024-08-10",
+            "ids": [
+                "aapbdbdomjkkjkaonfhkkikfgjllcleb",
+                "agionbommeaifngbhincahgmoflcikhm",
+                "annfbnbieaamhaimclajlajpijgkdblo",
+                "cclelndahbckbenkjhflpdbgdldlbecc",
+                "ehpgophpmjmlcmjhpmhjognkehlpnfld",
+                "fjdmkanbdloodhegphphhklnjfngoffa",
+                "jfedfbgedapdagkghmgibemcoggfppbb",
+                "jhikancdgcieieaapcjmbpjflikjgkpn",
+                "ngpampappnmepgilojfohadhhmbhlaek"
+            ],
+            "invalid_ids": [
+                "dmlodggohojkcpkgfafhoegiejeipkle"
+            ],
+            "salt": "tdPugsCnAjKKS6aR9ojGTvWxdBZP9eLZkLfEkAz3hUM=",
+            "signature": "bs2A1SHd06v8ZOYMeQDYQER/R34YnAdqBBDF23KN44nAm/qEqxSDVzQT7jd2CDt6ZEbN413qy8zEP9YtkRc8xLukEgAvK64X72QKoK8T2+ajQCtwPT4XLUihcqW4A4EyrlgPOfHiodYPNoiIa0lqPjW/mlhEWUtuZUTek0T6FIRrK+w8TGzacd2/tpshm7ImPVS6c+pf0U1k7D6W3alJakelQ4y14qtEAba/b+KniqRzdO1ppxSRSyIpANapYLfERPJXrpu3DhZKYvjmWkQYIdA45oFuj7bvpE+X6RZTixMbwYKMDN+jpzH07fLl1ghE2aSI8AbYjK9RqP3reaxHPw==",
+            "signature_format_version": 2,
+            "timestamp": "13360556224127615"
+        },
+        "last_chrome_version": "115.0.5790.102",
+        "pinned_extensions": [
+            "jfedfbgedapdagkghmgibemcoggfppbb",
+            "cclelndahbckbenkjhflpdbgdldlbecc"
+        ],
+        "theme": {
+            "id": ""
+        },
+        "ui": {
+            "developer_mode": true
+        }
+    },
+    "gaia_cookie": {
+        "changed_time": 1702988749.842024,
+        "hash": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+        "last_list_accounts_data": "[\"gaia.l.a.r\",[]]",
+        "periodic_report_time": 1716455302.05898
+    },
+    "gcm": {
+        "product_category_for_subtypes": "com.chrome.windows"
+    },
+    "google": {
+        "services": {
+            "consented_to_sync": false,
+            "last_gaia_id": "111826133209220630215",
+            "signin": {
+                "REFRESH_TOKEN_RECEIVED": {
+                    "time": "2023-09-28T07:16:58.805Z",
+                    "value": "Successful (111826133209220630215)"
+                }
+            },
+            "signin_scoped_device_id": "45b2d8d2-5b73-4615-a49a-09863d69a7c3"
+        }
+    },
+    "https_upgrade_navigations": {
+        "2024-03-11": 10
+    },
+    "in_product_help": {
+        "policy_last_heavyweight_promo_time": "13354614677283779",
+        "session_last_active_time": "13357124523116991",
+        "session_start_time": "13357124506105911",
+        "snoozed_feature": {
+            "IPH_DesktopCustomizeChrome": {
+                "is_dismissed": true,
+                "last_show_time": "13341464078539858",
+                "last_snooze_duration": "0",
+                "last_snooze_time": "0",
+                "show_count": 1,
+                "snooze_count": 0
+            },
+            "IPH_DesktopCustomizeChromeRefresh": {
+                "first_show_time": "13354614677283789",
+                "is_dismissed": true,
+                "last_dismissed_by": 3,
+                "last_show_time": "13354614677283789",
+                "last_snooze_time": "0",
+                "show_count": 1,
+                "shown_for_apps": [],
+                "snooze_count": 0
+            },
+            "IPH_DownloadToolbarButton": {
+                "is_dismissed": false,
+                "last_show_time": "13360231101195536",
+                "last_snooze_duration": "0",
+                "last_snooze_time": "0",
+                "show_count": 2,
+                "snooze_count": 0
+            },
+            "IPH_LiveCaption": {
+                "first_show_time": "13354614748964556",
+                "is_dismissed": true,
+                "last_dismissed_by": 4,
+                "last_show_time": "13354624139548391",
+                "last_snooze_time": "0",
+                "show_count": 4,
+                "shown_for_apps": [],
+                "snooze_count": 0
+            },
+            "IPH_PasswordsManagementBubbleAfterSave": {
+                "is_dismissed": false,
+                "last_show_time": "13337085379106842",
+                "last_snooze_duration": "0",
+                "last_snooze_time": "0",
+                "show_count": 1,
+                "snooze_count": 0
+            }
+        }
+    },
+    "intl": {
+        "selected_languages": "zh-CN,zh"
+    },
+    "invalidation": {
+        "per_sender_active_registration_tokens": {},
+        "per_sender_client_id_cache": {},
+        "per_sender_registered_for_invalidation": {
+            "1013309121859": {},
+            "8181035976": {}
+        },
+        "per_sender_topics_to_handler": {
+            "1013309121859": {},
+            "8181035976": {}
+        }
+    },
+    "language_model_counters": {
+        "en": 62,
+        "zh-CN": 170
+    },
+    "media": {
+        "device_id_salt": "077089CDCFFB16BC9B946E5C57379D86",
+        "engagement": {
+            "schema_version": 5
+        }
+    },
+    "media_router": {
+        "receiver_id_hash_token": "/3xfQ7RmRnhhrAVJ3PLPpl8LhdCfArtPEY8SfhmWE4Xmng2S/RKMyEpu4gA5If+iC5SDK+KVr2gek2G1PChozA=="
+    },
+    "ntp": {
+        "custom_background_local_to_device": false,
+        "num_personal_suggestions": 8
+    },
+    "optimization_guide": {
+        "hintsfetcher": {
+            "hosts_successfully_fetched": {
+                "262d19f7": 13355228790.52188,
+                "354d3581": 13355218899.88992,
+                "375990d7": 13355293311.238552,
+                "62e2545d": 13355219486.23733,
+                "c45dfa1f": 13355219485.027582,
+                "cffdce45": 13355293271.97881
+            }
+        },
+        "predictionmodelfetcher": {
+            "last_fetch_attempt": "13360922419226644",
+            "last_fetch_success": "13360922419578111"
+        },
+        "previous_optimization_types_with_filter": {
+            "AMERICAN_EXPRESS_CREDIT_CARD_FLIGHT_BENEFITS": true,
+            "AMERICAN_EXPRESS_CREDIT_CARD_SUBSCRIPTION_BENEFITS": true,
+            "CAPITAL_ONE_CREDIT_CARD_DINING_BENEFITS": true,
+            "CAPITAL_ONE_CREDIT_CARD_ENTERTAINMENT_BENEFITS": true,
+            "CAPITAL_ONE_CREDIT_CARD_GROCERY_BENEFITS": true,
+            "CAPITAL_ONE_CREDIT_CARD_STREAMING_BENEFITS": true,
+            "HISTORY_CLUSTERS": true,
+            "IBAN_AUTOFILL_BLOCKED": true,
+            "PIX_PAYMENT_MERCHANT_ALLOWLIST": true,
+            "SHARED_CREDIT_CARD_DINING_BENEFITS": true,
+            "SHARED_CREDIT_CARD_ENTERTAINMENT_BENEFITS": true,
+            "SHARED_CREDIT_CARD_FLIGHT_BENEFITS": true,
+            "SHARED_CREDIT_CARD_GROCERY_BENEFITS": true,
+            "SHARED_CREDIT_CARD_STREAMING_BENEFITS": true,
+            "SHARED_CREDIT_CARD_SUBSCRIPTION_BENEFITS": true,
+            "SHOPPING_PAGE_PREDICTOR": true,
+            "VCN_MERCHANT_OPT_OUT_VISA": true
+        },
+        "previously_registered_optimization_types": {
+            "ABOUT_THIS_SITE": true,
+            "SHOPPING_PAGE_PREDICTOR": true,
+            "V8_COMPILE_HINTS": true
+        },
+        "store_file_paths_to_delete": {}
+    },
+    "password_manager": {
+        "passwords_grouping_info_requested": true
+    },
+    "prefetch": {
+        "search_prefetch": {
+            "cache": {}
+        }
+    },
+    "privacy_sandbox": {
+        "anti_abuse_initialized": true,
+        "first_party_sets_data_access_allowed_initialized": true,
+        "m1": {
+            "ad_measurement_enabled": true,
+            "fledge_enabled": true,
+            "row_notice_acknowledged": true,
+            "topics_enabled": true
+        },
+        "topics_data_accessible_since": "13352884392020001"
+    },
+    "profile": {
+        "avatar_index": 26,
+        "background_password_check": {
+            "check_interval": "864000000000",
+            "next_check_time": "13355502669648117"
+        },
+        "content_settings": {
+            "did_migrate_adaptive_notification_quieting_to_cpss": true,
+            "disable_quiet_permission_ui_time": {
+                "notifications": "13357124508098552"
+            },
+            "enable_cpss": {
+                "notifications": true
+            },
+            "enable_quiet_permission_ui": {
+                "notifications": false
+            },
+            "enable_quiet_permission_ui_enabling_method": {
+                "notifications": 1
+            },
+            "exceptions": {
+                "3pcd_heuristics_grants": {},
+                "3pcd_support": {},
+                "access_to_get_all_screens_media_in_session": {},
+                "accessibility_events": {},
+                "anti_abuse": {},
+                "app_banner": {
+                    "https://www.youtube.com:443,*": {
+                        "last_modified": "13360955422077992",
+                        "setting": {
+                            "https://www.youtube.com/": {
+                                "next_install_text_animation": {
+                                    "delay": "172800000000",
+                                    "last_shown": "13360955422077981"
+                                }
+                            },
+                            "https://www.youtube.com/?feature=ytca": {
+                                "couldShowBannerEvents": 1.335462399869094e+16
+                            }
+                        }
+                    }
+                },
+                "ar": {},
+                "auto_picture_in_picture": {},
+                "auto_select_certificate": {},
+                "automatic_downloads": {},
+                "automatic_fullscreen": {},
+                "autoplay": {},
+                "background_sync": {},
+                "bluetooth_chooser_data": {},
+                "bluetooth_guard": {},
+                "bluetooth_scanning": {},
+                "camera_pan_tilt_zoom": {},
+                "captured_surface_control": {},
+                "client_hints": {
+                    "https://accounts.google.com:443,*": {
+                        "last_modified": "13358766639878298",
+                        "setting": {
+                            "client_hints": [
+                                9,
+                                10,
+                                11,
+                                13,
+                                14,
+                                16,
+                                23,
+                                25
+                            ]
+                        }
+                    },
+                    "https://chromewebstore.google.com:443,*": {
+                        "last_modified": "13360493000578835",
+                        "setting": {
+                            "client_hints": [
+                                9,
+                                10,
+                                11,
+                                13,
+                                14,
+                                16,
+                                23,
+                                25
+                            ]
+                        }
+                    },
+                    "https://cn.bing.com:443,*": {
+                        "last_modified": "13357124509202794",
+                        "setting": {
+                            "client_hints": [
+                                8,
+                                9,
+                                10,
+                                11,
+                                12,
+                                13,
+                                14,
+                                16,
+                                23
+                            ]
+                        }
+                    },
+                    "https://www.bing.com:443,*": {
+                        "last_modified": "13357124508986374",
+                        "setting": {
+                            "client_hints": [
+                                8,
+                                9,
+                                10,
+                                11,
+                                12,
+                                13,
+                                14,
+                                16,
+                                23
+                            ]
+                        }
+                    },
+                    "https://www.google.com:443,*": {
+                        "last_modified": "13360835949910711",
+                        "setting": {
+                            "client_hints": [
+                                9,
+                                10,
+                                11,
+                                13,
+                                14,
+                                16,
+                                23,
+                                25
+                            ]
+                        }
+                    },
+                    "https://www.youtube.com:443,*": {
+                        "last_modified": "13360955604996971",
+                        "setting": {
+                            "client_hints": [
+                                9,
+                                10,
+                                11,
+                                13,
+                                14,
+                                16,
+                                23,
+                                25
+                            ]
+                        }
+                    }
+                },
+                "clipboard": {},
+                "cookie_controls_metadata": {
+                    "file:///*,*": {
+                        "last_modified": "13355401167883478",
+                        "setting": {}
+                    },
+                    "https://[*.]bilibili.com,*": {
+                        "last_modified": "13354625408766639",
+                        "setting": {}
+                    },
+                    "https://[*.]bing.com,*": {
+                        "last_modified": "13357124509406866",
+                        "setting": {}
+                    },
+                    "https://[*.]d1wqtxts1xzle7.cloudfront.net,*": {
+                        "last_modified": "13348655256182576",
+                        "setting": {}
+                    },
+                    "https://[*.]elsevier.com,*": {
+                        "last_modified": "13348655331415649",
+                        "setting": {}
+                    },
+                    "https://[*.]escience.cn,*": {
+                        "last_modified": "13348655363281013",
+                        "setting": {}
+                    },
+                    "https://[*.]google.com,*": {
+                        "last_modified": "13354688511412823",
+                        "setting": {}
+                    },
+                    "https://[*.]google.com.hk,*": {
+                        "last_modified": "13354688493976630",
+                        "setting": {}
+                    },
+                    "https://[*.]opera.com,*": {
+                        "last_modified": "13347456011602936",
+                        "setting": {}
+                    },
+                    "https://[*.]sciencedirect.com,*": {
+                        "last_modified": "13348655366542156",
+                        "setting": {}
+                    },
+                    "https://[*.]youtube.com,*": {
+                        "last_modified": "13354623990424288",
+                        "setting": {}
+                    }
+                },
+                "cookies": {},
+                "durable_storage": {},
+                "fedcm_active_session": {},
+                "fedcm_idp_registration": {},
+                "fedcm_idp_signin": {
+                    "https://accounts.google.com:443,*": {
+                        "last_modified": "13347456002368829",
+                        "setting": {
+                            "chosen-objects": [
+                                {
+                                    "idp-origin": "https://accounts.google.com",
+                                    "idp-signin-status": false
+                                }
+                            ]
+                        }
+                    }
+                },
+                "fedcm_share": {},
+                "file_system_access_chooser_data": {},
+                "file_system_access_extended_permission": {},
+                "file_system_access_restore_permission": {},
+                "file_system_last_picked_directory": {},
+                "file_system_read_guard": {},
+                "file_system_write_guard": {},
+                "formfill_metadata": {
+                    "https://accounts.google.com:443,*": {
+                        "last_modified": "13340359006369282",
+                        "setting": {
+                            "UserDataFieldFilled": true
+                        }
+                    },
+                    "https://cnpassport.youku.com:443,*": {
+                        "last_modified": "13334918153235343",
+                        "setting": {
+                            "UserDataFieldFilled": true
+                        }
+                    },
+                    "https://docs.mesalab.cn:443,*": {
+                        "last_modified": "13337085376055022",
+                        "setting": {
+                            "UserDataFieldFilled": true
+                        }
+                    },
+                    "https://github.com:443,*": {
+                        "last_modified": "13347106387874649",
+                        "setting": {
+                            "UserDataFieldFilled": true
+                        }
+                    },
+                    "https://id.elsevier.com:443,*": {
+                        "last_modified": "13348655286428377",
+                        "setting": {
+                            "UserDataFieldFilled": true
+                        }
+                    },
+                    "https://passport.escience.cn:443,*": {
+                        "last_modified": "13348655322489380",
+                        "setting": {
+                            "UserDataFieldFilled": true
+                        }
+                    },
+                    "https://www.bilibili.com:443,*": {
+                        "last_modified": "13352811087406648",
+                        "setting": {
+                            "UserDataFieldFilled": true
+                        }
+                    }
+                },
+                "geolocation": {},
+                "get_display_media_set_select_all_screens": {},
+                "hid_chooser_data": {},
+                "hid_guard": {},
+                "http_allowed": {},
+                "https_enforced": {},
+                "idle_detection": {},
+                "images": {},
+                "important_site_info": {},
+                "insecure_private_network": {},
+                "intent_picker_auto_display": {},
+                "javascript": {},
+                "javascript_jit": {},
+                "legacy_cookie_access": {},
+                "local_fonts": {},
+                "media_engagement": {
+                    "https://accounts.google.com:443,*": {
+                        "expiration": "13366542642549516",
+                        "last_modified": "13358766642549521",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 1
+                        }
+                    },
+                    "https://blog.csdn.net:443,*": {
+                        "expiration": "13365957852109649",
+                        "last_modified": "13358181852109654",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 1
+                        }
+                    },
+                    "https://chromewebstore.google.com:443,*": {
+                        "expiration": "13368010143709162",
+                        "last_modified": "13360234143709167",
+                        "lifetime": "7776000000000",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 6
+                        }
+                    },
+                    "https://cn.bing.com:443,*": {
+                        "expiration": "13364900523513662",
+                        "last_modified": "13357124523513667",
+                        "lifetime": "7776000000000",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 2
+                        }
+                    },
+                    "https://scholar.google.com.hk:443,*": {
+                        "expiration": "13362482752681804",
+                        "last_modified": "13354706752681809",
+                        "lifetime": "7776000000000",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 1
+                        }
+                    },
+                    "https://scholar.google.com:443,*": {
+                        "expiration": "13361385872436116",
+                        "last_modified": "13353609872436121",
+                        "lifetime": "7776000000000",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 4
+                        }
+                    },
+                    "https://search.bilibili.com:443,*": {
+                        "expiration": "13361396836620066",
+                        "last_modified": "13353620836620072",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 4
+                        }
+                    },
+                    "https://space.bilibili.com:443,*": {
+                        "expiration": "13368006920625650",
+                        "last_modified": "13360230920625656",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 6
+                        }
+                    },
+                    "https://support.google.com:443,*": {
+                        "expiration": "13366543003083004",
+                        "last_modified": "13358767003083008",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 3
+                        }
+                    },
+                    "https://www.bilibili.com:443,*": {
+                        "expiration": "13368615793910256",
+                        "last_modified": "13360839793910262",
+                        "lifetime": "7776000000000",
+                        "setting": {
+                            "hasHighScore": true,
+                            "lastMediaPlaybackTime": 1.335462414652506e+16,
+                            "mediaPlaybacks": 20,
+                            "visits": 33
+                        }
+                    },
+                    "https://www.bing.com:443,*": {
+                        "expiration": "13362482752767005",
+                        "last_modified": "13354706752767009",
+                        "lifetime": "7776000000000",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 6
+                        }
+                    },
+                    "https://www.google.com:443,*": {
+                        "expiration": "13368611952376901",
+                        "last_modified": "13360835952376905",
+                        "lifetime": "7776000000000",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 0.0,
+                            "mediaPlaybacks": 0,
+                            "visits": 29
+                        }
+                    },
+                    "https://www.youtube.com:443,*": {
+                        "expiration": "13368731642645667",
+                        "last_modified": "13360955642645671",
+                        "lifetime": "7776000000000",
+                        "setting": {
+                            "hasHighScore": false,
+                            "lastMediaPlaybackTime": 1.3360955638742512e+16,
+                            "mediaPlaybacks": 2,
+                            "visits": 5
+                        }
+                    }
+                },
+                "media_stream_camera": {},
+                "media_stream_mic": {},
+                "midi": {},
+                "midi_sysex": {},
+                "mixed_script": {},
+                "nfc_devices": {},
+                "notification_interactions": {},
+                "notification_permission_review": {},
+                "notifications": {
+                    "https://blog.csdn.net:443,*": {
+                        "last_modified": "13357993115060743",
+                        "setting": 2
+                    }
+                },
+                "password_protection": {},
+                "payment_handler": {},
+                "permission_autoblocking_data": {
+                    "https://blog.csdn.net:443,*": {
+                        "last_modified": "13357991406407103",
+                        "setting": {
+                            "Notifications": {
+                                "dismiss_count": 2
+                            }
+                        }
+                    }
+                },
+                "permission_autorevocation_data": {},
+                "popups": {},
+                "private_network_chooser_data": {},
+                "private_network_guard": {},
+                "protected_media_identifier": {},
+                "protocol_handler": {},
+                "reduced_accept_language": {},
+                "safe_browsing_url_check_data": {},
+                "sensors": {},
+                "serial_chooser_data": {},
+                "serial_guard": {},
+                "site_engagement": {
+                    "https://accounts.google.com:443,*": {
+                        "last_modified": "13360955328156588",
+                        "setting": {
+                            "lastEngagementTime": 1.3360824533809948e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 3.0,
+                            "rawScore": 3.0
+                        }
+                    },
+                    "https://blog.csdn.net:443,*": {
+                        "last_modified": "13360955328156642",
+                        "setting": {
+                            "lastEngagementTime": 1.3360210946020928e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 15.0,
+                            "rawScore": 15.0
+                        }
+                    },
+                    "https://chromewebstore.google.com:443,*": {
+                        "last_modified": "13360955328156599",
+                        "setting": {
+                            "lastEngagementTime": 1.3360894930995044e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 5.1,
+                            "rawScore": 7.261882391147248
+                        }
+                    },
+                    "https://cn.bing.com:443,*": {
+                        "last_modified": "13360955328156574",
+                        "setting": {
+                            "lastEngagementTime": 1.336018027570364e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 4.5,
+                            "rawScore": 4.312559044607999
+                        }
+                    },
+                    "https://space.bilibili.com:443,*": {
+                        "last_modified": "13360955328156359",
+                        "setting": {
+                            "lastEngagementTime": 1.3360024461238608e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 7.499999999999998,
+                            "rawScore": 7.499999999999998
+                        }
+                    },
+                    "https://support.google.com:443,*": {
+                        "last_modified": "13360955328156610",
+                        "setting": {
+                            "lastEngagementTime": 1.3360824889560672e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 4.2,
+                            "rawScore": 4.2
+                        }
+                    },
+                    "https://www.bilibili.com:443,*": {
+                        "last_modified": "13360955328156552",
+                        "setting": {
+                            "lastEngagementTime": 1.3360926528151508e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 5.219999999999994,
+                            "rawScore": 16.94012406660686
+                        }
+                    },
+                    "https://www.google.com:443,*": {
+                        "last_modified": "13360955328156621",
+                        "setting": {
+                            "lastEngagementTime": 1.336092373115448e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 3.0,
+                            "rawScore": 7.128542487236488
+                        }
+                    },
+                    "https://www.youtube.com:443,*": {
+                        "last_modified": "13360955641746335",
+                        "setting": {
+                            "lastEngagementTime": 1.3360955641746258e+16,
+                            "lastShortcutLaunchTime": 0.0,
+                            "pointsAddedToday": 4.859999999999999,
+                            "rawScore": 12.333624561349803
+                        }
+                    }
+                },
+                "sound": {},
+                "speaker_selection": {},
+                "ssl_cert_decisions": {},
+                "storage_access": {},
+                "subresource_filter": {},
+                "subresource_filter_data": {},
+                "third_party_storage_partitioning": {},
+                "top_level_3pcd_support": {},
+                "top_level_storage_access": {},
+                "unused_site_permissions": {},
+                "usb_chooser_data": {},
+                "usb_guard": {},
+                "vr": {},
+                "webid_api": {},
+                "webid_auto_reauthn": {},
+                "window_placement": {}
+            },
+            "in_content_cookies_controls_opened": true,
+            "permission_actions": {
+                "notifications": [
+                    {
+                        "action": 2,
+                        "prompt_disposition": 1,
+                        "time": "13357991367823686"
+                    },
+                    {
+                        "action": 2,
+                        "prompt_disposition": 1,
+                        "time": "13357991406407066"
+                    },
+                    {
+                        "action": 1,
+                        "prompt_disposition": 1,
+                        "time": "13357993115061200"
+                    }
+                ]
+            },
+            "pref_version": 1
+        },
+        "created_by_version": "115.0.5790.102",
+        "creation_time": "13334483933366184",
+        "exit_type": "Crashed",
+        "icon_version": 10,
+        "last_engagement_time": "13360955641746258",
+        "last_time_obsolete_http_credentials_removed": 1716274919.389172,
+        "last_time_password_store_metrics_reported": 1716362373.152588,
+        "managed": {
+            "banner_state": 0
+        },
+        "managed_user_id": "",
+        "name": "用户1",
+        "password_account_storage_settings": {},
+        "password_hash_data_list": [],
+        "were_old_google_logins_removed": true
+    },
+    "protection": {
+        "macs": {}
+    },
+    "safebrowsing": {
+        "advanced_protection_last_refresh": "13358766638933845",
+        "csd_ping_timestamps": [
+            1709139349.706282,
+            1709140384.385779,
+            1709140399.784469,
+            1709140521.864619
+        ],
+        "event_timestamps": {
+            "0": {
+                "12": [
+                    "13360231100"
+                ],
+                "5": []
+            }
+        },
+        "hash_real_time_ohttp_expiration_time": "13355218899757918",
+        "hash_real_time_ohttp_key": "BgAgSb5H1YDlTW281MYCO1f9ohW/8bkUcX1PrPgdiJuTCgEABAABAAI=",
+        "metrics_last_log_time": "13360928873",
+        "unhandled_sync_password_reuses": {}
+    },
+    "savefile": {
+        "default_directory": "C:\\Users\\zheng\\Desktop\\pic"
+    },
+    "segmentation_platform": {
+        "client_result_prefs": "CmIKC3NlYXJjaF91c2VyElMKSA0AAAAAENOJv8TA890XGjgKMBouCgoNAACAPxIDTG93Cg0NAACgQBIGTWVkaXVtCgsNAACwQRIESGlnaBIETm9uZRIEEAcYBBD1ib/EwPPdFwpoChpjaHJvbWVfbG93X3VzZXJfZW5nYWdlbWVudBJKCj8NAAAAABCzo+W9ruvdFxovCicKJQ0AAAA/EhdDaHJvbWVMb3dVc2VyRW5nYWdlbWVudBoFT3RoZXISBBAHGAQQys7EzsTn3RcK5QIKEWNyb3NzX2RldmljZV91c2VyEs8CCsMCDQAAgD8QsKbgrr6H3RcasAIKpwIapAIKGQ0AAIA/EhJOb0Nyb3NzRGV2aWNlVXNhZ2UKGA0AAABAEhFDcm9zc0RldmljZU1vYmlsZQoZDQAAQEASEkNyb3NzRGV2aWNlRGVza3RvcAoYDQAAgEASEUNyb3NzRGV2aWNlVGFibGV0CiINAACgQBIbQ3Jvc3NEZXZpY2VNb2JpbGVBbmREZXNrdG9wCiENAADAQBIaQ3Jvc3NEZXZpY2VNb2JpbGVBbmRUYWJsZXQKIg0AAOBAEhtDcm9zc0RldmljZURlc2t0b3BBbmRUYWJsZXQKIA0AAABBEhlDcm9zc0RldmljZUFsbERldmljZVR5cGVzChcNAAAQQRIQQ3Jvc3NEZXZpY2VPdGhlchISTm9Dcm9zc0RldmljZVVzYWdlEgQQBxgEIAIQ26bgrr6H3RcKcQoVcGFzc3dvcmRfbWFuYWdlcl91c2VyElgKTQ0AAAAAELWtwsTA890XGj0KNQozDQAAAD8SE1Bhc3N3b3JkTWFuYWdlclVzZXIaF05vdF9QYXNzd29yZE1hbmFnZXJVc2VyEgQQBxgEEMqtwsTA890XClIKDXNob3BwaW5nX3VzZXISQQo2DQAAAAAQ3Y7grr6H3RcaJAocChoNAAAAPxIMU2hvcHBpbmdVc2VyGgVPdGhlchIEEAcYBCACEIaP4K6+h90XCmAKEXJlc3VtZV9oZWF2eV91c2VyEksKQA0AAAAAEI+n4K6+h90XGi4KJgokDQAAAD8SFlJlc3VtZUhlYXZ5VXNlclNlZ21lbnQaBU90aGVyEgQQDhgEIAIQqqfgrr6H3Rc=",
+        "device_switcher_util": {
+            "result": {
+                "labels": [
+                    "SyncedAndFirstDevice"
+                ]
+            }
+        },
+        "last_db_compaction_time": "13360809599000000",
+        "segmentation_result": {
+            "chrome_low_user_engagement": {
+                "in_use": false,
+                "segment_id": 0,
+                "segment_rank": 0.0,
+                "selection_time": "13360424725587786"
+            },
+            "cross_device_user": {
+                "in_use": false,
+                "segment_id": 1001,
+                "segment_rank": 1.0,
+                "selection_time": "13334915621359735"
+            },
+            "resume_heavy_user": {
+                "in_use": false,
+                "segment_id": 0,
+                "segment_rank": 0.0,
+                "selection_time": "13337059036487830"
+            },
+            "shopping_user": {
+                "in_use": false,
+                "segment_id": 0,
+                "segment_rank": 0.0,
+                "selection_time": "13334915621359579"
+            }
+        }
+    },
+    "selectfile": {
+        "last_directory": "C:\\Users\\zheng\\Desktop"
+    },
+    "sessions": {
+        "event_log": [
+            {
+                "crashed": false,
+                "time": "13360160757567940",
+                "type": 0
+            },
+            {
+                "did_schedule_command": true,
+                "first_session_service": true,
+                "tab_count": 1,
+                "time": "13360221734655434",
+                "type": 2,
+                "window_count": 1
+            },
+            {
+                "crashed": false,
+                "time": "13360221735067057",
+                "type": 0
+            },
+            {
+                "restore_browser": true,
+                "synchronous": true,
+                "time": "13360221735124998",
+                "type": 5
+            },
+            {
+                "errored_reading": false,
+                "tab_count": 1,
+                "time": "13360221735270948",
+                "type": 1,
+                "window_count": 1
+            },
+            {
+                "did_schedule_command": true,
+                "first_session_service": true,
+                "tab_count": 3,
+                "time": "13360223697633234",
+                "type": 2,
+                "window_count": 1
+            },
+            {
+                "crashed": false,
+                "time": "13360223698156729",
+                "type": 0
+            },
+            {
+                "restore_browser": true,
+                "synchronous": true,
+                "time": "13360223698191130",
+                "type": 5
+            },
+            {
+                "errored_reading": false,
+                "tab_count": 3,
+                "time": "13360223698335700",
+                "type": 1,
+                "window_count": 1
+            },
+            {
+                "did_schedule_command": true,
+                "first_session_service": true,
+                "tab_count": 4,
+                "time": "13360234143697713",
+                "type": 2,
+                "window_count": 1
+            },
+            {
+                "crashed": false,
+                "time": "13360251917870438",
+                "type": 0
+            },
+            {
+                "crashed": true,
+                "time": "13360556223687818",
+                "type": 0
+            },
+            {
+                "did_schedule_command": true,
+                "first_session_service": true,
+                "tab_count": 1,
+                "time": "13360748178655110",
+                "type": 2,
+                "window_count": 1
+            },
+            {
+                "crashed": false,
+                "time": "13360748459401567",
+                "type": 0
+            },
+            {
+                "did_schedule_command": true,
+                "first_session_service": true,
+                "tab_count": 1,
+                "time": "13360754806796409",
+                "type": 2,
+                "window_count": 1
+            },
+            {
+                "crashed": false,
+                "time": "13360759370893799",
+                "type": 0
+            },
+            {
+                "did_schedule_command": true,
+                "first_session_service": true,
+                "tab_count": 1,
+                "time": "13360759385580830",
+                "type": 2,
+                "window_count": 1
+            },
+            {
+                "crashed": false,
+                "time": "13360835943151445",
+                "type": 0
+            },
+            {
+                "did_schedule_command": true,
+                "first_session_service": true,
+                "tab_count": 1,
+                "time": "13360955642640185",
+                "type": 2,
+                "window_count": 1
+            }
+        ],
+        "session_data_status": 3
+    },
+    "settings": {
+        "a11y": {
+            "apply_page_colors_only_on_increased_contrast": true
+        }
+    },
+    "sharing": {
+        "local_sharing_info": {
+            "enabled_features": [
+                2,
+                4,
+                8
+            ],
+            "sender_id_target_info": {
+                "device_auth_secret": "",
+                "device_fcm_token": "",
+                "device_p256dh": ""
+            },
+            "vapid_target_info": {
+                "device_auth_secret": "3hJmZfjxLtxLEKAiAud6eQ==",
+                "device_fcm_token": "e2ucjG3XImI:APA91bFPcYuCQwHZXL82VSGWGfT-E0G9I6MS71Y703U4cqNGwPIXUyaigHWUbF6dNFpqd291sRtqFtvnJIAe4gue0Zqp3HKYu7FJnV11CST46MYbpUJCkFpctIBoehlnaifbNPMQGhBu",
+                "device_p256dh": "BI9Pl+VDPna6j/36ZfRuADsr42/21JGHXH6IJ3o/tUdh7iqs79HK5jYiFXNJASUbf3D5v2F2maA4/+4MbKJK3Vs="
+            }
+        },
+        "vapid_key": {
+            "vapid_creation_timestamp": "13334117799918265",
+            "vapid_private_key": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg5j1Y2gh6KahDghmFpYdo8K8Nv9AD53oCdTw+HHbDsUqhRANCAATtGwspRdM0AdbMOsVUggMwb/nIzmB1rODPAVI/kvfICBycab8hPTBR/g4tqkplDVIND2tcHNBADtN6A9NRuluG"
+        }
+    },
+    "side_panel": {
+        "is_right_aligned": false
+    },
+    "signin": {
+        "allowed": true
+    },
+    "spellcheck": {
+        "dictionaries": [
+            "en-US"
+        ],
+        "dictionary": ""
+    },
+    "supervised_user": {
+        "metrics": {
+            "day_id": 154640
+        }
+    },
+    "sync": {
+        "autofill_wallet_import_enabled_migrated": true,
+        "cached_passphrase_type": 2,
+        "data_type_status_for_sync_to_signin": {
+            "app_list": false,
+            "app_settings": false,
+            "apps": false,
+            "arc_package": false,
+            "autofill": false,
+            "autofill_profiles": false,
+            "autofill_wallet": false,
+            "autofill_wallet_credential": false,
+            "autofill_wallet_metadata": false,
+            "autofill_wallet_offer": false,
+            "autofill_wallet_usage": false,
+            "bookmarks": false,
+            "contact_info": false,
+            "device_info": false,
+            "dictionary": false,
+            "extension_settings": false,
+            "extensions": false,
+            "history": false,
+            "history_delete_directives": false,
+            "incoming_password_sharing_invitation": false,
+            "managed_user_settings": false,
+            "nigori": false,
+            "os_preferences": false,
+            "os_priority_preferences": false,
+            "outgoing_password_sharing_invitation": false,
+            "passwords": false,
+            "power_bookmark": false,
+            "preferences": false,
+            "printers": false,
+            "printers_authorization_servers": false,
+            "priority_preferences": false,
+            "reading_list": false,
+            "saved_tab_group": false,
+            "search_engines": false,
+            "security_events": false,
+            "segmentation": false,
+            "send_tab_to_self": false,
+            "sessions": false,
+            "shared_tab_group_data": false,
+            "sharing_message": false,
+            "themes": false,
+            "user_consent": false,
+            "user_events": false,
+            "web_apks": false,
+            "web_apps": false,
+            "webauthn_credential": false,
+            "wifi_configurations": false,
+            "workspace_desk": false
+        },
+        "encryption_bootstrap_token_per_account_migration_done": true,
+        "feature_status_for_sync_to_signin": 1,
+        "local_device_guids_with_timestamp": [
+            {
+                "cache_guid": "ZdU6FbD9EbOjygiexbdxBA==",
+                "timestamp": 154606
+            }
+        ],
+        "requested": false
+    },
+    "tracking_protection": {
+        "tracking_protection_3pcd_enabled": false
+    },
+    "translate_accepted_count": {
+        "en": 0
+    },
+    "translate_denied_count_for_language": {
+        "en": 7
+    },
+    "translate_ignored_count_for_language": {
+        "en": 22
+    },
+    "translate_site_blacklist": [],
+    "translate_site_blocklist_with_time": {},
+    "unified_consent": {
+        "migration_state": 10
+    },
+    "updateclientdata": {
+        "apps": {
+            "aapbdbdomjkkjkaonfhkkikfgjllcleb": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6352,
+                "installdate": 6046,
+                "pf": "3bf942f8-33a2-4aa8-bc38-aa788d320f55"
+            },
+            "agionbommeaifngbhincahgmoflcikhm": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6352,
+                "fp": "1.d4b9070d88bb85d99c029b844ebdce59530dcb65ddfe1b0082d7c510cf907650",
+                "installdate": 6318,
+                "pf": "379373f5-96e8-4057-be0c-a5c1a036b5b0",
+                "pv": "4.2.6"
+            },
+            "annfbnbieaamhaimclajlajpijgkdblo": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6126,
+                "installdate": 6046,
+                "pf": "9cfefe91-5761-4136-9bd2-54b35a07d888"
+            },
+            "cclelndahbckbenkjhflpdbgdldlbecc": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6352,
+                "fp": "1.f280c5a69cfd3590320737abacaef0bb3da82916aebb2963da00aad5c237cb8a",
+                "installdate": 6258,
+                "pf": "32dd994a-ca04-4abb-a404-4e95710939f2",
+                "pv": "0.5.7"
+            },
+            "ehpgophpmjmlcmjhpmhjognkehlpnfld": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6352,
+                "installdate": 6318,
+                "pf": "5a752252-de5d-4459-aff7-1b9a1cc09c23"
+            },
+            "fjdmkanbdloodhegphphhklnjfngoffa": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6352,
+                "installdate": 6347,
+                "pf": "4d1e717a-8b68-47e0-9bf3-6300cfe3c9a2"
+            },
+            "jfedfbgedapdagkghmgibemcoggfppbb": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6352,
+                "fp": "1.643df1350df5c43491100d29613d266a0ca770ffb84aebe2e1d88b0f481f619e",
+                "installdate": 6051,
+                "pf": "28fc786d-085c-4ed1-83ad-333cbc33939f",
+                "pv": "2.5.2"
+            },
+            "jhikancdgcieieaapcjmbpjflikjgkpn": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6352,
+                "fp": "1.007d08e2a695a6f2fccd944e89745915b12d12c17307988cb78b3df9afb5be14",
+                "installdate": 6085,
+                "pf": "f24869a4-12d8-4e16-aede-72e6a164f082",
+                "pv": "1.0.0.56"
+            },
+            "ngpampappnmepgilojfohadhhmbhlaek": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6349,
+                "fp": "1.448596128b87ed519e54c697db46cbee7eb6888988bb865bdc42a1c72fb60cd9",
+                "installdate": 6079,
+                "pf": "a14daca4-471c-480d-a6c5-4f865f40a336",
+                "pv": "6.42.8.2"
+            },
+            "nmmhkkegccagdldgiimedpiccmgmieda": {
+                "cohort": "1::",
+                "cohortname": "",
+                "dlrc": 6352,
+                "installdate": 6046,
+                "pf": "7af32b30-c407-4c66-a09b-4c71349ab896"
+            }
+        }
+    },
+    "url_keyed_anonymized_data_collection": {
+        "enabled": false
+    },
+    "web_apps": {
+        "daily_metrics": {
+            "https://www.youtube.com/?feature=ytca": {
+                "background_duration_sec": 78,
+                "captures_links": false,
+                "effective_display_mode": 1,
+                "foreground_duration_sec": 171,
+                "install_source": 12,
+                "installed": true,
+                "num_sessions": 6,
+                "promotable": true
+            }
+        },
+        "daily_metrics_date": "13360953600000000",
+        "did_migrate_default_chrome_apps": [
+            "MigrateDefaultChromeAppToWebAppsGSuite",
+            "MigrateDefaultChromeAppToWebAppsNonGSuite"
+        ],
+        "error_loaded_policy_apps_migrated": true,
+        "last_preinstall_synchronize_version": "115",
+        "migrated_default_apps": [
+            "aohghmighlieiainnegkcijnfilokake",
+            "aapocclcgogkmnckokdopfmhonfmgoek",
+            "felcaaldnbdncclmgdcncolpebgiejap",
+            "apdfllckaahabafndbhieahigkjlhalf",
+            "pjkljhegncpnkpknbcohdijeoejaedia",
+            "blpcfgokakmgnkcojhhkbfbldkacnbeo"
+        ]
+    },
+    "zerosuggest": {
+        "cachedresults": ")]}'\n[\"\",[],[],[],{\"google:clientdata\":{\"bpc\":false,\"tlw\":false},\"google:suggesttype\":[],\"google:verbatimrelevance\":851}]",
+        "cachedresults_with_url": {
+            "https://www.google.com/search?q=%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF&oq=%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEJNzE2NmowajE1qAIAsAIA&sourceid=chrome&ie=UTF-8": ")]}'\n[\"\",[],[],[],{\"google:clientdata\":{\"bpc\":false,\"tlw\":false},\"google:suggesttype\":[],\"google:verbatimrelevance\":851}]"
+        }
+    }
+}
